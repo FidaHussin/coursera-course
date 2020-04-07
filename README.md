@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)</title>
 	<h1>HTML, CSS and Javascript for Web Developers (by Johns Hopkins University)</h1>
 	<h3>Course Solution By Fida Hussain Dahri (BS-IT QUEST Nawabshah)</h3>
 	<h4></h4><hr/>
